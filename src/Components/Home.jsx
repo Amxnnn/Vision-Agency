@@ -90,7 +90,7 @@ const Home = () => {
           </p>
           <h1 
             ref={headingRef}
-            className="text-[34px] sm:text-[48px] md:text-[60px] leading-tight md:leading-[1.05] font-semibold tracking-tight"
+            className="text-[32px] sm:text-[48px] md:text-[60px] leading-tight md:leading-[1.05] font-semibold tracking-tight"
           >
             Your vision deserves more than a website — it deserves an experience
           </h1>
