@@ -2,7 +2,4 @@
 
 A sleek and animated portfolio website built with **React** and **GSAP**, designed to showcase modern web development capabilities.  
 
-## ✨ Features
-- Smooth scroll-triggered animations  
-- Interactive hover effects  
-- Integrated booking system for client inquiries  
+
